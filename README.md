@@ -1,11 +1,11 @@
-# Normalizer
+# Wikitext Standard Style
 
-JavaScript for normalizing wikitext.
+JavaScript tool for normalizing wikitext, inspired in https://standardjs.com
 
 Install by adding the following to your personal common.js
 
 ```javascript
-mw.loader.load( '//sophivorus.com/gadgets/Normalizer/normalizer.js' );
+mw.loader.load( '//sophivorus.com/gadgets/WikitextStandardStyle/standard.js' );
 ```
 
 Or install for all users by adding the code above to MediaWiki:Common.js
