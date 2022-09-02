@@ -1,6 +1,6 @@
 # Wikitext Standard Style
 
-JavaScript tool for normalizing wikitext, inspired in https://standardjs.com
+JavaScript tool for standardizing wikitext, inspired in https://standardjs.com
 
 Install by adding the following to your personal common.js
 
