@@ -10,4 +10,4 @@ mw.loader.load( '//sophivorus.com/WikitextStandardStyle/standard.js' );
 
 Or install for all users by adding the code above to MediaWiki:Common.js
 
-Then edit any page and search for the wand icon in the toolbar.
+Then edit any page and look for the wand icon in the toolbar. Click it to standardize all the wikitext in the page, or select a portion of wikitext and click the wand to standardize the selected portion.
